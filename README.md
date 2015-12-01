@@ -1,2 +1,2 @@
-# AWDAS
-Arduino Wireless Doorbell Alert System
+# ADAS
+Arduino Doorbell Alert System
